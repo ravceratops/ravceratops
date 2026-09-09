@@ -24,13 +24,11 @@ Simulation-based study of a Coordinated Turn Model inside an Extended Kalman Fil
 
 ## 02 — Manuscripts
 
-The independent manuscripts are maintained in a [controlled-access research archive](https://github.com/ravceratops/research-portfolio-private). GitHub access is required to open the private repository.
+Manuscripts are private. For access, email [ravi.psln2003@gmail.com](mailto:ravi.psln2003@gmail.com).
 
 - **Selective Multi-View Triangulation with Predictive Uncertainty for Reliable Sparse 3-D Reconstruction** — correspondence ambiguity, uncertainty-aware landmark selection, and risk–coverage evaluation.
 - **A Sensor-Only Hybrid Physics-Machine-Learning Architecture for Motorcycle Stability Control under Synthetic-Only Validation** — hybrid prediction and deterministic control under synthetic distribution shift.
 - **Distance-Only Inside/Outside Determination under Geometric and Motion Constraints** — conditional decidability for localization without direct position reconstruction.
-
-These are independent working manuscripts and should be labeled as manuscripts, drafts, or preprints until formally published.
 
 ## 03 — Smaller independent projects
 
