@@ -40,10 +40,6 @@ Smaller projects will be presented through dedicated public repositories after t
 - Search and Rescue Robot with Autonomous Navigation and Real-Time Monitoring — autonomous navigation, MLX90614 thermal human detection, live video streaming, and audio alerts.
 - Kalman Filter vs Particle Filter — motion prediction, sensor fusion, and uncertainty visualisation.
 
-## Public portfolio policy
-
-This profile is a public index of independent research, academic projects, and manuscripts. Employer-owned code, data, internal tools, and workplace implementation details are intentionally excluded.
-
 ## Contact
 
-For research or engineering collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/raviramananv).
+For research or engineering collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/raviramananv) or email [ravi.psln2003@gmail.com](mailto:ravi.psln2003@gmail.com).
