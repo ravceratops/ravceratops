@@ -4,7 +4,7 @@ Applied researcher and engineer working on computer vision, multi-view geometry,
 
 My work focuses on reliable perception and decision-making under uncertainty, with projects spanning sparse 3-D reconstruction, visual correspondence, Bayesian state estimation, and vehicle stability control.
 
-[LinkedIn](https://www.linkedin.com/in/raviramananv) · [Research portfolio](https://github.com/ravceratops/research-portfolio)
+[LinkedIn](https://www.linkedin.com/in/raviramananv) · [GitHub](https://github.com/ravceratops)
 
 ## Research interests
 
@@ -24,7 +24,7 @@ Simulation-based study of a Coordinated Turn Model inside an Extended Kalman Fil
 
 ## 02 — Manuscripts
 
-Manuscripts are private. For access, email [ravi.psln2003@gmail.com](mailto:ravi.psln2003@gmail.com).
+Manuscripts are private. For access, email [ravi.psln2003@gmail.com](mailto:ravi.psln2003@gmail.com) and request access to the [private manuscript archive](https://github.com/ravceratops/research-portfolio-private).
 
 - **Selective Multi-View Triangulation with Predictive Uncertainty for Reliable Sparse 3-D Reconstruction** — correspondence ambiguity, uncertainty-aware landmark selection, and risk–coverage evaluation.
 - **A Sensor-Only Hybrid Physics-Machine-Learning Architecture for Motorcycle Stability Control under Synthetic-Only Validation** — hybrid prediction and deterministic control under synthetic distribution shift.
@@ -32,11 +32,14 @@ Manuscripts are private. For access, email [ravi.psln2003@gmail.com](mailto:ravi
 
 ## 03 — Smaller independent projects
 
-Smaller projects will be presented through dedicated public repositories after their code and documentation are separated from the legacy workspace:
-
-- Vision-Based Automatic ORVM Adjustment using Driver Eye-Point Geometry — facial landmarks, head-pose estimation, 3-D eye-point geometry, mirror reflection, and deterministic setpoint generation.
-- Search and Rescue Robot with Autonomous Navigation and Real-Time Monitoring — autonomous navigation, MLX90614 thermal human detection, live video streaming, and audio alerts.
-- Kalman Filter vs Particle Filter — motion prediction, sensor fusion, and uncertainty visualisation.
+- **Adaptive Cruise and Lane Change Assist (Python)** — simulated traffic environment with speed adjustment, safety margins, lane availability checks, and automatic lane-change decisions.
+- **Auto-Annotation Tool (Python)** — YOLO-compatible image labeling with custom class mapping, class merging or renaming, optional GPU acceleration, and YOLO-format output.
+- **Kalman Filter vs Particle Filter** — motion prediction, sensor fusion, RMSE/MAE comparison, and uncertainty visualisation.
+- **Key Localization and Trajectory Mapping (MATLAB)** — CAN-log parsing, four-anchor distance processing, filtering, angle estimation, and trajectory visualisation.
+- **Lane Change Assist Prototype (Arduino)** — five ultrasonic sensors, warning indicators, LCD feedback, and servo-based lane-switching control.
+- **Motorcycle Stability Control Unit (Python)** — physics-based braking, traction, and lean-angle simulation for cornering and emergency-braking scenarios.
+- **Search and Rescue Robot** — Arduino robotics proof of concept with obstacle detection, camera feedback, autonomous movement, and target alerts.
+- **Vision-Based Automatic ORVM Adjustment** — facial landmarks, head-pose estimation, 3-D eye-point geometry, mirror reflection, and deterministic setpoint generation.
 
 ## Contact
 
