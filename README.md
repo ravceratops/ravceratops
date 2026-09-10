@@ -30,16 +30,17 @@ Manuscripts are private. For access, email [ravi.psln2003@gmail.com](mailto:ravi
 - **A Sensor-Only Hybrid Physics-Machine-Learning Architecture for Motorcycle Stability Control under Synthetic-Only Validation** — hybrid prediction and deterministic control under synthetic distribution shift.
 - **Distance-Only Inside/Outside Determination under Geometric and Motion Constraints** — conditional decidability for localization without direct position reconstruction.
 
-## 03 — Smaller independent projects
+## 03 — Ranked independent projects
 
-- **Adaptive Cruise and Lane Change Assist (Python)** — simulated traffic environment with speed adjustment, safety margins, lane availability checks, and automatic lane-change decisions.
-- **Auto-Annotation Tool (Python)** — YOLO-compatible image labeling with custom class mapping, class merging or renaming, optional GPU acceleration, and YOLO-format output.
-- **Kalman Filter vs Particle Filter** — motion prediction, sensor fusion, RMSE/MAE comparison, and uncertainty visualisation.
-- **Key Localization and Trajectory Mapping (MATLAB)** — CAN-log parsing, four-anchor distance processing, filtering, angle estimation, and trajectory visualisation.
-- **Lane Change Assist Prototype (Arduino)** — five ultrasonic sensors, warning indicators, LCD feedback, and servo-based lane-switching control.
-- **Motorcycle Stability Control Unit (Python)** — physics-based braking, traction, and lean-angle simulation for cornering and emergency-braking scenarios.
-- **Search and Rescue Robot** — Arduino robotics proof of concept with obstacle detection, camera feedback, autonomous movement, and target alerts.
-- **Vision-Based Automatic ORVM Adjustment** — facial landmarks, head-pose estimation, 3-D eye-point geometry, mirror reflection, and deterministic setpoint generation.
+Ranked by technical distinctiveness and admissions-facing impact; manuscript experiments are described only in the private archive.
+
+1. **Auto-Annotation Tool (Python)** — YOLO-compatible image labeling with custom class mapping, class merging or renaming, optional GPU acceleration, and YOLO-format output.
+2. **Vision-Based Automatic ORVM Adjustment** — facial landmarks, head-pose estimation, 3-D eye-point geometry, mirror reflection, and deterministic setpoint generation.
+3. **Search and Rescue Robot** — Arduino robotics proof of concept with obstacle detection, camera feedback, autonomous movement, and target alerts.
+4. **Motorcycle Stability Control Unit (Python)** — physics-based braking, traction, and lean-angle simulation for cornering and emergency-braking scenarios.
+5. **Kalman Filter vs Particle Filter** — motion prediction, sensor fusion, RMSE/MAE comparison, and uncertainty visualisation.
+6. **Adaptive Cruise and Lane Change Assist (Python)** — simulated traffic environment with speed adjustment, safety margins, lane availability checks, and automatic lane-change decisions.
+7. **Lane Change Assist Prototype (Arduino)** — five ultrasonic sensors, warning indicators, LCD feedback, and servo-based lane-switching control.
 
 ## Contact
 
