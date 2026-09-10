@@ -28,17 +28,15 @@ Manuscripts are private. For access, email [ravi.psln2003@gmail.com](mailto:ravi
 
 - **Selective Multi-View Triangulation with Predictive Uncertainty for Reliable Sparse 3-D Reconstruction**
   
-  **Research hook:** A 3-D point can have low reprojection error and still be wrong. UMVT-V2 frames landmark reliability as selective prediction: robust N-view triangulation, pixel-noise-scaled covariance, and leave-one-view-out validation produce both an interpretable acceptance gate and a continuous score, allowing a perception system to trade coverage for expected reliability. On frozen DTU final tests, it reaches mean scene-level AURC of 0.572 mm for SIFT and 0.902 mm for SuperPoint+LightGlue, beating reprojection-only ranking on 4/5 and 5/5 scenes respectively; ETH3D results are mixed, keeping the claim deliberately bounded.
+  Multi-view pipelines can accept geometrically plausible tracks even when they are weakly constrained or matcher-ambiguous. UMVT-V2 addresses this with a matcher-agnostic selective sparse-reconstruction pipeline that combines robust N-view triangulation, pixel-noise-scaled first-order covariance, and leave-one-view-out predictive validation. The method produces an interpretable acceptance gate and continuous reliability score, enabling a coverage–reliability trade-off. On frozen DTU final tests, mean scene-level AURC is 0.572 mm for SIFT and 0.902 mm for SuperPoint+LightGlue, with reprojection-only ranking improved in 4/5 and 5/5 scenes, respectively. Evaluation on ETH3D shows that performance varies with the matcher and scene distribution.
 
 - **A Sensor-Only Hybrid Physics-Machine-Learning Architecture for Motorcycle Stability Control under Synthetic-Only Validation**
   
-  **Research hook:** The controller sees 15 sensor channels—not privileged road-bank truth—and must forecast instability before a deterministic allocator limits throttle and brake commands. The architecture combines a temporal neural predictor with a friction observer and physics-based control, then separates prediction quality, warning lead, intervention burden, and closed-loop outcome instead of collapsing them into one safety number. In a prevalence-matched out-of-distribution subset, warnings cover 48.1% of unsafe onsets within 500 ms with 0.400 s mean lead; the paired 500-scenario comparison crosses zero, so the manuscript presents a bounded synthetic evaluation framework—not a real-road safety claim.
+  Motorcycle stability control is studied using a sensor-only hybrid physics–machine-learning architecture under synthetic-only validation. The controller receives 15 vehicle-facing sensor channels while road bank remains hidden, and combines a temporal neural predictor, a friction observer, and deterministic throttle/brake allocation. Prediction, warning lead, intervention burden, and closed-loop outcomes are reported separately. In a prevalence-matched out-of-distribution subset, warnings cover 48.1% of unsafe onsets within 500 ms with a mean lead of 0.400 s. Across the paired 500-scenario Plant-B bank, the combined controller changes unsafe fraction by −0.000105 relative to physics-only control, with a 95% interval of [−0.000275, 0.000000].
 
 - **Distance-Only Inside/Outside Determination under Geometric and Motion Constraints** — conditional decidability for localization without direct position reconstruction.
 
-## 03 — Ranked independent projects
-
-Ranked by technical distinctiveness and admissions-facing impact; manuscript experiments are described only in the private manuscript copies.
+## Projects
 
 1. **Auto-Annotation Tool (Python)** — YOLO-compatible image labeling with custom class mapping, class merging or renaming, optional GPU acceleration, and YOLO-format output.
 2. **Vision-Based Automatic ORVM Adjustment** — facial landmarks, head-pose estimation, 3-D eye-point geometry, mirror reflection, and deterministic setpoint generation.
